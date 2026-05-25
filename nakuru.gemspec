@@ -8,13 +8,13 @@ Gem::Specification.new do |spec|
   spec.authors = ["Junichi Kobayashi"]
   spec.email = ["nnujabok@gmail.com"]
 
-  spec.summary = "TODO: Write a short summary, because RubyGems requires one."
-  spec.description = "TODO: Write a longer description or delete this line."
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.summary = "A bridge between Ruby and Spinel."
+  spec.description = "A bridge between Ruby and Spinel."
+  spec.homepage = "https://github.com/junk0612/nakuru"
   spec.required_ruby_version = ">= 3.2.0"
-  spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
+
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "TODO: Put your gem's public repo URL here."
+  spec.metadata["source_code_uri"] = "https://github.com/junk0612/nakuru"
 
   # Uncomment the line below to require MFA for gem pushes.
   # This helps protect your gem from supply chain attacks by ensuring
